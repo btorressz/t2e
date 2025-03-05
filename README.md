@@ -27,4 +27,32 @@
 
 ---
 
+# Smart Contract(program) Functions
+
+## 1. Initialize Leaderboard
+- **Purpose**: Creates the leaderboard state and initializes default values.
+
+## 2. Record a Trade
+- **Purpose**: Tracks trader statistics (volume, execution time, and P&L).
+
+## 3. Update Leaderboard
+- **Purpose**: Ranks traders based on performance.
+
+## 4. Distribute Rewards
+- **Purpose**: Transfers $T2E tokens to the top-ranked traders.
+
+## 5. Stake Tokens
+- **Purpose**: Allows traders to stake $T2E for fee discounts and leaderboard boosts.
+
+## 6. Calculate Fee Discount
+- **Purpose**: Determines a trader's fee discount based on their staked amount.
+
+## 7. Take Leaderboard Snapshot
+- **Purpose**: Saves a snapshot of rankings for historical tracking.
+
+## 8. Admin Emergency Pause
+- **Purpose**: Allows an admin to pause or resume rewards in case of exploits.
+
+---
+
 
