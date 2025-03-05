@@ -55,4 +55,14 @@
 
 ---
 
+# Security Features
+
+- **Prevent Sybil Attacks**: Blocks multiple accounts from farming rewards.
+- **Wash Trading Protection**: Detects repeated self-trading.
+- **Leaderboard Boosts for Staking**: Traders with more $T2E get ranking bonuses.
+- **Emergency Admin Controls**: Admin can pause rewards in case of an exploit.
+- **Dynamic Reward Scaling**: Rewards decrease over time to prevent inflation.
+
+---
+
 
