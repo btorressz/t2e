@@ -66,3 +66,16 @@
 ---
 
 
+# Program Accounts
+
+| Account               | Purpose                                                       |
+|-----------------------|---------------------------------------------------------------|
+| **Leaderboard**        | Stores rankings and trader scores.                            |
+| **TraderStats**        | Tracks trade history, volume, execution time, and staked tokens. |
+| **RewardVault**        | Holds $T2E rewards for distribution.                          |
+| **StakingVault**       | Stores staked tokens for fee discount calculations.           |
+| **LeaderboardHistory** | Records leaderboard snapshots for tracking past rankings.    |
+
+---
+
+
