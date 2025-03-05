@@ -18,3 +18,11 @@
 5. Traders can **stake $T2E** to unlock **fee discounts** and **leaderboard boosts**.
 
 
+## 🎯 **Key Features**
+✅ **Leaderboard updates every 10 minutes**  
+✅ **Auto-rewards top traders daily based on execution metrics**  
+✅ **Real yield-based staking model** for trading fee discounts  
+✅ **Anti-sybil & anti-wash trading protection** to ensure fairness  
+✅ **Emergency admin controls** to pause rewards in case of exploits  
+
+---
