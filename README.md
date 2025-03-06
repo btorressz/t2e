@@ -80,4 +80,7 @@
 
 ---
 
+## 🧾📜 License 
+- This Project us under the **MIT LICENSE**
+
 
