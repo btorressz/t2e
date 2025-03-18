@@ -4,7 +4,7 @@
 
 **Trade-to-Earn Leaderboard Token ($t2e)** is a **Solana-based smart contract** that **gamifies high-frequency trading (HFT)** by rewarding top traders based on their **execution speed, trading volume, and profitability**. 
 
-***NOTE THIS PROJECT WAS MADE USING SOLANA PLAYGROUND THAN EXPORTED TO VSCODE**
+***NOTE THIS PROJECT WAS MADE USING SOLANA PLAYGROUND THAN EXPORTED TO VSCODE and is still under review**
 
 ### 🚀 **Why $T2E?**
 - **Encourages high-volume trading** across Solana DEXes.
@@ -81,6 +81,6 @@
 ---
 
 ## 🧾📜 License 
-- This Project us under the **MIT LICENSE**
+- This Project is under the **MIT LICENSE**
 
 ---
